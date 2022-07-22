@@ -126,7 +126,7 @@ int main(void)
 {
     for (int i = 0; i < 3; ++i)
     {
-        semWait[i]=7;
+        sWait[i]=7;
     }
 	
 	
